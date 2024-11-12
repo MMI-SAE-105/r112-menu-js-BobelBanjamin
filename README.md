@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Bobel
+- prénom : Banjamin
+- URL Netlify : https://clever-tulumba-add08d.netlify.app
 
 # Travail
 
